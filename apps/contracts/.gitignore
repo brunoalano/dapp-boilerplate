@@ -1,0 +1,11 @@
+cache/
+artifacts/
+coverage*
+typechain/
+node_modules/
+.env
+.yalc
+yalc.lock
+deployments/hardhat
+deployments/localhost
+deployments.json
